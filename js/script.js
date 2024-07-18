@@ -10,7 +10,7 @@ const quizData = [
         options: ["Miguel de Cervantes", "William Shakespeare", "Charles Dickens", "Jane Austen"],
         answer: "Miguel de Cervantes"
     },
-        
+
     // Adicione mais perguntas conforme necessário
 ];
 
@@ -45,8 +45,10 @@ function checkAnswer(event) {
     if (selectedOption === correctAnswer) {
         score++;
         resultElement.textContent = 'Resposta correta!';
+        resultElement.style.color = 'green';
     } else {
         resultElement.textContent = 'Resposta incorreta. A resposta correta é: ' + correctAnswer;
+        resultElement.style.color = 'red'
     }
 
     currentQuestion++;

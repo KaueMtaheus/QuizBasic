@@ -15,12 +15,23 @@ body {
     box-shadow: 0 0 10px #0000001a;
 }
 
+.quiz-container h2 {
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: bold;
+}
+
+
+#question {
+    padding: 20px 0px 20px 0px;
+}
+
 .options-container {
     margin-top: 10px;
 }
 
 button {
-    margin-top: 10px;
+    margin: 10px 5px 30px 0px;
     padding: 10px 20px;
     background-color: #154f8c;
     color: #fff;
@@ -29,13 +40,28 @@ button {
     cursor: pointer;
 }
 
+#submit-btn {
+    width: 300px;
+    display: flex;
+    background-color: green;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+#submit-btn:hover {
+    background-color: #135c13;
+    
+}
+
 button:hover {
     background-color: #1c65b3;
 }
 
 p#result {
-    margin-top: 10px;
+    margin-top: 40px;
     font-weight: bold;
+    text-align: center;
 }
 
 
