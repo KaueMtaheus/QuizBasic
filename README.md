@@ -2,6 +2,8 @@
 
 Bem-vindo ao Quiz de Perguntas e Respostas! Este projeto é uma aplicação interativa de quiz desenvolvida com HTML, CSS e JavaScript. A aplicação apresenta uma imagem GIF e uma série de perguntas de múltipla escolha. Após responder às perguntas, o usuário recebe feedback sobre suas respostas e sua pontuação final.
 
+![Quiz](assets/q-e-um.gif)
+
 ## Funcionalidades
 
 - **Imagem GIF:** Exibição de uma imagem GIF no início do quiz para uma experiência visual interessante.
