@@ -4,6 +4,7 @@ Bem-vindo ao Quiz de Perguntas e Respostas! Este projeto é uma aplicação inte
 
 ![Quiz](assets/q-e-um.gif)
 
+
 ## Funcionalidades
 
 - **Imagem GIF:** Exibição de uma imagem GIF no início do quiz para uma experiência visual interessante.
@@ -33,6 +34,12 @@ O projeto é organizado da seguinte forma:
    cd <nome-do-diretório>
 
 3. **Abra o arquivo index.html em um navegador para iniciar o quiz.**
+
+
+
+## Deploy do projeto 
+GitHub pages:
+https://kauemtaheus.github.io/QuizBasic/
 
 ## Licença
 Este projeto é licenciado sob a MIT License.
