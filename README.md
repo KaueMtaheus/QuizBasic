@@ -5,6 +5,9 @@ Bem-vindo ao Quiz de Perguntas e Respostas! Este projeto é uma aplicação inte
 ![Quiz](assets/q-e-um.gif)
 
 
+
+Deploy: https://lnkd.in/e68EcHUx
+
 ## Funcionalidades
 
 - **Imagem GIF:** Exibição de uma imagem GIF no início do quiz para uma experiência visual interessante.
